@@ -1,0 +1,3501 @@
+500
+Hamza
+553320948
+Owais Baig
+BC-24954016
+98076
+married
+1601511
+Hussain Mughal
+11686
+Mehwish Malik
+BC-77378529
+5678129
+single
+787163077
+Hussain Chaudhry
+86959
+Komal
+BC-10202769
+1363416
+single
+32217
+Rukhsana Raza
+0200763620007
+Farah Qureshi
+BC-47007807
+630404
+single
+8312721
+Adnan
+2908975
+Samina
+BC-27052099
+4250326
+divorced
+00133
+Adnan Siddiqui
+6337893102546
+Mahnoor Farooq
+BC-21644706
+4009945
+widowed
+9725305482316
+Amna Baig
+32270
+Farah Niazi
+pending
+91360
+single
+9648076
+Usman Hussain
+1875845
+Nida Khalid
+BC-71034861
+8279939
+divorced
+88148
+Mehwish Javed
+09343
+Kamran
+BC-40337278
+45344
+divorced
+272602936
+Ahmed Mughal
+0304775814635
+Tariq Khalid
+BC-50304693
+1409599
+divorced
+1882662
+Saima Javed
+9741993
+Mahnoor Malik
+BC-46099476
+1426947
+widowed
+4851204790173
+Asad
+959525668
+Asad Qureshi
+BC-83913502
+2869086
+married
+4511632
+Maria Raza
+0068658039652
+Farah Niazi
+BC-56727755
+8532908
+single
+73891
+Owais Chaudhry
+287349430
+Sana Ahmed
+BC-03495588
+977327
+widowed
+34116
+Tariq
+9649707406590
+Asad Qureshi
+pending
+45866
+divorced
+16848
+Zainab
+88837
+Nazia
+BC-73697510
+117714
+widowed
+8085398
+Tahira
+322845321
+Tahira
+testing
+578190
+divorced
+81887
+Fatima
+5287076324155
+Waqas Siddiqui
+BC-39101199
+27085
+widowed
+297764991
+Owais Siddiqui
+77354
+Hassan Mughal
+BC-86187018
+9248030
+widowed
+62107
+Ahmed Niazi
+866624509
+Ali Baig
+BC-71033360
+667874
+divorced
+438475513
+Mahnoor Awan
+92203
+Nazia Abbasi
+BC-27426231
+9652219
+married
+48536
+Mehwish Khalid
+633996533
+Samina Yousaf
+BC-15332011
+71519
+widowed
+4161260
+Yasmin Sheikh
+7762351
+Tahira
+BC-13373988
+024461
+widowed
+6686790
+Saad Abbasi
+873162589
+Tariq
+BC-69661798
+256642
+divorced
+12188
+Asad Siddiqui
+0944617
+Rashid
+BC-55493246
+94271
+widowed
+19405
+Rukhsana
+4194611256892
+Yasmin Hussain
+testing
+75819
+married
+859379265
+Zaib
+94863
+Sadia Hussain
+verified
+6768217
+single
+7787397986598
+Saima Khan
+62879
+Zaib
+BC-72261810
+820767
+single
+0000097
+Nida Mughal
+80959
+Imran
+BC-99444296
+39535
+married
+8585836
+Amna Khalid
+13112
+Anam Sheikh
+BC-20954298
+92504
+widowed
+674281009
+Tahira
+540015993
+Samina Mughal
+BC-90087455
+736053
+divorced
+02991
+Rukhsana Hussain
+25358
+Komal Chaudhry
+BC-53489739
+3889734
+widowed
+34670
+Komal
+115769190
+Kamran
+BC-60199210
+449159
+married
+6639100710253
+Tahira
+041019515
+Bilal
+BC-53408904
+95346
+widowed
+22994
+Zaib Chaudhry
+2679481329547
+Hira Khan
+BC-94038528
+894458
+single
+603325783
+Samina Baig
+73959
+Hussain
+BC-64104949
+5595989
+married
+86047
+Hassan Khan
+4752288460139
+Amna
+BC-81028277
+3481645
+married
+175945260
+Farah Mehmood
+1866616134251
+Amna Awan
+BC-37451805
+86125
+married
+41715
+Sana
+31873
+Zaib
+BC-75014377
+085036
+married
+34317
+Bilal Awan
+758627940
+Ayesha Siddiqui
+BC-97261369
+5694373
+divorced
+80036
+Anam Siddiqui
+8471369180811
+Usman Siddiqui
+BC-26294516
+28316
+married
+1625934
+Farhan Abbasi
+6553991
+Hamza
+BC-74538681
+2033000
+widowed
+9342276
+Salman Hussain
+311468567
+Rukhsana Sheikh
+BC-41977102
+794738
+widowed
+4457214844375
+Nida Mehmood
+3818659
+Rukhsana Raza
+BC-93077020
+20189
+divorced
+9613975669869
+Ali
+339930658
+Rashid Butt
+BC-40827639
+7763420
+divorced
+654961288
+Nida Siddiqui
+12031
+Mehwish Awan
+BC-65492526
+24966
+widowed
+0129503
+Nida
+00288
+Kamran
+BC-57263954
+313766
+single
+68262
+Usman Javed
+2874555
+Waqas
+BC-02673812
+52195
+widowed
+3449784
+Junaid Iqbal
+5065096
+Ali Sheikh
+BC-70965561
+72253
+divorced
+5046310
+Kamran Sheikh
+9033353865701
+Shahzaib Yousaf
+BC-88019600
+55884
+divorced
+02516
+Rashid
+0467356
+Komal
+BC-60622010
+1851178
+married
+911051580
+Yasmin Yousaf
+6731381823640
+Waqas
+BC-76745497
+6461227
+single
+8402695393445
+Ayesha Siddiqui
+85778
+Junaid Chaudhry
+BC-41884765
+1956960
+divorced
+6211335560559
+Mehwish
+4116304
+Anam Mughal
+BC-97335736
+52388
+widowed
+5366547494090
+Komal Yousaf
+337564922
+Faisal
+pending
+885027
+widowed
+2951843
+Rabia Baig
+064472555
+Owais Malik
+BC-56111348
+53726
+divorced
+334772095
+Imran
+6848002653903
+Fatima
+BC-46024860
+676843
+married
+057735269
+Shazia Chaudhry
+730400883
+Farah Malik
+BC-94870107
+00849
+single
+83471
+Rashid Mughal
+202893437
+Zubair Awan
+BC-41359955
+866694
+divorced
+3145936375005
+Hamza Awan
+45359
+Mehwish Khalid
+BC-18614207
+3449889
+married
+3459836
+Zaib
+2347619
+Farhan Farooq
+BC-40244975
+9959573
+married
+685406582
+Owais Farooq
+09345
+Usman
+BC-20256710
+3584704
+widowed
+64413
+Adnan
+9613628
+Ahmed Butt
+BC-87409538
+201417
+divorced
+3283649
+Hamza Mehmood
+460161681
+Faisal
+BC-53050962
+57648
+divorced
+1444890
+Yasmin Mughal
+544893797
+Mahnoor Abbasi
+pending
+7297775
+divorced
+7614014274297
+Hira Mughal
+19216
+Adnan
+BC-55707515
+74875
+divorced
+455894585
+Yasmin Abbasi
+951125235
+Ahmed Malik
+BC-74825614
+18662
+married
+7643815399574
+Maria Mughal
+5649302
+Komal
+BC-75703565
+4405524
+married
+999562476
+Hamza
+76025
+Zubair
+BC-61261095
+241253
+married
+4054010864325
+Anam Qureshi
+0151289
+Ahmed Soomro
+BC-87436436
+1012824
+divorced
+2700858013059
+Ali Qureshi
+5452390216025
+Shahzaib Awan
+BC-84643621
+41215
+married
+7282848
+Nazia Yousaf
+3109235706059
+Zaib Hussain
+BC-53875689
+6293435
+married
+6442919917385
+Zainab Yousaf
+3435345
+Usman Ahmed
+BC-30625833
+056893
+divorced
+151404384
+Hira Farooq
+695309129
+Saima Siddiqui
+BC-44377909
+36835
+divorced
+7353208
+Samina Sheikh
+124896245
+Fatima Mehmood
+BC-13737799
+42908
+single
+366633162
+Faisal
+55825
+Mahnoor
+testing
+7371097
+married
+876019347
+Nida
+37705
+Tariq Khalid
+BC-04309698
+92353
+divorced
+9696467
+Samina Ahmed
+5584092171424
+Anam Ahmed
+BC-59570139
+321538
+married
+66429
+Sobia Niazi
+8557808250231
+Sobia
+BC-31527876
+928489
+married
+516802516
+Yasmin
+449137503
+Ali Abbasi
+pending
+95228
+single
+140322484
+Kamran Raza
+88580
+Junaid Raza
+BC-02918829
+3197359
+divorced
+83959
+Naveed Mughal
+4767392
+Tahira Sheikh
+BC-58172348
+668183
+single
+05039
+Shahzaib Khan
+85106
+Ali Abbasi
+BC-06523269
+189647
+widowed
+2245801201822
+Rukhsana Ahmed
+2116328185808
+Nida Ahmed
+BC-11530883
+7157075
+single
+720681058
+Kamran Raza
+4747917
+Junaid Farooq
+BC-99835330
+064185
+married
+1359588
+Waqas Malik
+590519920
+Yasmin Niazi
+BC-36253949
+436264
+single
+90468
+Ayesha Raza
+9009721539679
+Tariq Hussain
+BC-54314593
+9332509
+married
+4272520009263
+Junaid Qureshi
+4661012495257
+Mehwish
+BC-70062964
+8968797
+divorced
+3865922117542
+Hamza Khalid
+74379
+Hassan Mehmood
+BC-66446311
+12711
+married
+5707603973993
+Waqas
+2842217
+Hira Farooq
+BC-56790514
+311483
+widowed
+8885329
+Mahnoor Soomro
+9633670606193
+Sobia Mehmood
+BC-03091499
+69325
+divorced
+623633295
+Ayesha
+68206
+Shazia Hussain
+BC-20935196
+651717
+divorced
+8779540485460
+Rashid
+3415926
+Shazia
+BC-83846771
+69274
+divorced
+384856030
+Waqas Baig
+0357605017072
+Mahnoor Mughal
+BC-20377052
+2309786
+widowed
+239167890
+Tahira Farooq
+049212890
+Amna
+BC-25796286
+1083000
+married
+3690204
+Usman
+3267647046126
+Maria Raza
+BC-16720884
+13126
+single
+24913
+Yasmin
+436999160
+Mahnoor Farooq
+BC-33758869
+572241
+divorced
+02588
+Hussain Mughal
+431349972
+Sobia
+testing
+8096734
+widowed
+9178785264224
+Owais Mughal
+67297
+Shazia Khalid
+BC-61087394
+627779
+widowed
+9797662
+Fatima
+7723096163861
+Farhan Javed
+BC-84504908
+3231518
+widowed
+67933
+Yasmin Hussain
+0521398
+Shahzaib Baig
+BC-20989515
+86646
+divorced
+522196804
+Rukhsana
+8822087
+Ahmed
+BC-85366360
+384658
+married
+85423
+Mehwish Chaudhry
+8849882
+Ahmed
+BC-93011328
+974066
+divorced
+183910095
+Sadia Ahmed
+29253
+Komal Malik
+BC-75215620
+73678
+married
+9515896
+Sadia Javed
+1445493334710
+Farah Mughal
+BC-96215503
+81718
+widowed
+461079180
+Ali Qureshi
+74046
+Iqra Ahmed
+BC-01455091
+7896886
+married
+1618983324565
+Kamran Malik
+7541514
+Kamran Yousaf
+BC-23763054
+82965
+single
+77901
+Saima Malik
+137736967
+Shazia Qureshi
+BC-05516087
+18667
+single
+2138938091616
+Rukhsana
+56910
+Samina
+BC-38766630
+9798720
+single
+111860937
+Ali Qureshi
+200359463
+Rashid
+BC-52026081
+229641
+divorced
+6194221772925
+Bilal Butt
+457582112
+Mehwish Butt
+BC-38823719
+81243
+married
+31920
+Sadia
+263839827
+Tahira Abbasi
+BC-94185806
+4023252
+married
+26062
+Ali
+2293289
+Tariq Chaudhry
+BC-72552560
+946520
+single
+0201250010652
+Amna Farooq
+5825037201242
+Hira Javed
+BC-02713991
+3177979
+widowed
+1184822
+Fatima Javed
+3677716
+Ayesha Soomro
+BC-14970245
+457897
+divorced
+327345112
+Waqas Mehmood
+8278191
+Imran
+verified
+32594
+married
+0419594838268
+Hassan Chaudhry
+4018577
+Yasmin
+BC-78387669
+772129
+divorced
+15801
+Hassan Abbasi
+56636
+Ahmed
+BC-33201783
+0007460
+married
+813860173
+Junaid Soomro
+4666283737266
+Owais Qureshi
+BC-58613411
+2574516
+married
+263338624
+Maria Siddiqui
+999403703
+Nazia Soomro
+BC-56713800
+8674387
+divorced
+4604487760282
+Zaib Ahmed
+8641694
+Sana
+BC-90083636
+38806
+single
+41994
+Sadia Iqbal
+376699541
+Farah Siddiqui
+BC-98039701
+317974
+divorced
+741018755
+Hamza Mehmood
+2553014
+Saad
+BC-71710814
+50184
+single
+50629
+Farhan Awan
+70177
+Ahmed Raza
+BC-83403154
+00829
+widowed
+494476391
+Nida
+303904452
+Imran
+verified
+50361
+married
+7206288
+Ali Butt
+3182707486632
+Farhan Awan
+BC-28306934
+0753711
+married
+6923274
+Sana Javed
+4716752
+Naveed
+BC-83067051
+752895
+widowed
+3337849
+Saima
+21284
+Hamza
+BC-83329792
+806260
+divorced
+144880146
+Tariq
+21171
+Rabia
+BC-83205576
+200919
+widowed
+471832977
+Hassan
+567319433
+Adnan
+BC-27891763
+034348
+widowed
+821320929
+Nazia
+3830135
+Ahmed Sheikh
+BC-73141731
+2839264
+divorced
+8634349
+Fatima
+6196432664352
+Maria
+BC-12960964
+22395
+widowed
+22108
+Amna Malik
+0136345063172
+Usman Hussain
+BC-48100485
+45822
+single
+2631358
+Shazia Javed
+3160314605367
+Hassan Siddiqui
+BC-10848314
+7588779
+widowed
+656790734
+Sadia Awan
+083983836
+Rukhsana Khalid
+pending
+238205
+widowed
+8953948
+Ali
+717313458
+Owais Javed
+BC-77498454
+6319787
+divorced
+588877630
+Maria
+26589
+Iqra Yousaf
+BC-92515975
+3123021
+single
+955125220
+Naveed Yousaf
+7850638897215
+Waqas Hussain
+verified
+5834282
+divorced
+53369
+Shahzaib Niazi
+16743
+Saad Hussain
+BC-47662419
+85174
+widowed
+494409149
+Salman Qureshi
+4523165
+Mahnoor
+verified
+278035
+widowed
+071227678
+Ayesha Iqbal
+6597765
+Rashid
+BC-17695194
+8213417
+married
+5039536402873
+Usman Sheikh
+966870510
+Shahzaib
+BC-44558218
+47418
+widowed
+5739430
+Tahira Khan
+3455215
+Saima
+BC-30681355
+2965976
+divorced
+552251110
+Tahira
+84987
+Mahnoor Hussain
+verified
+785755
+divorced
+6104657902506
+Hussain Baig
+5376267
+Tariq
+BC-94474440
+8991703
+married
+71070
+Mahnoor
+612980095
+Salman
+BC-51424405
+88134
+married
+0987524
+Bilal
+841008267
+Saad Abbasi
+BC-81923307
+93586
+divorced
+29153
+Maria
+3003728690930
+Hussain Mehmood
+BC-30982339
+6535738
+widowed
+8660480754108
+Mehwish Javed
+4305785346622
+Adnan Hussain
+BC-01731699
+107622
+single
+3560878997611
+Rashid Iqbal
+585103348
+Hussain Hussain
+BC-58522262
+6713526
+single
+5507199
+Junaid Siddiqui
+99922
+Owais Butt
+BC-22761736
+7131005
+widowed
+9717886240972
+Fatima
+988351899
+Zaib
+BC-15935521
+391631
+married
+629965529
+Samina Ahmed
+760430730
+Tahira Khan
+pending
+7997514
+single
+93491
+Bilal
+0213913
+Farah Mehmood
+BC-86745318
+591962
+divorced
+7920644437207
+Farhan Raza
+2945073967930
+Owais Yousaf
+BC-51665984
+0330802
+married
+8791657351871
+Ali Iqbal
+80981
+Hussain Siddiqui
+BC-78659476
+63902
+single
+6980341494722
+Sana Mehmood
+391909818
+Zubair Siddiqui
+BC-29176233
+25687
+single
+71300
+Fatima Ahmed
+918222847
+Mahnoor Malik
+BC-56677269
+37665
+divorced
+6604196
+Shazia
+57491
+Zubair
+BC-38937020
+62401
+married
+90021
+Imran Qureshi
+69545
+Faisal Soomro
+BC-17615216
+6329333
+married
+28314
+Hussain
+40788
+Amna
+BC-33132611
+69946
+single
+338894806
+Owais Iqbal
+9597879
+Asad Malik
+BC-98586597
+63178
+single
+807145673
+Junaid Farooq
+7735002
+Bilal Abbasi
+BC-74502167
+44636
+divorced
+9367690750698
+Rashid
+42339
+Bilal
+BC-33489221
+5812357
+single
+301921356
+Fatima Khalid
+4507293
+Tariq
+BC-16228013
+63306
+widowed
+17535
+Hassan
+8312868310785
+Sobia
+BC-32461437
+50297
+divorced
+63002
+Ali Baig
+9222662725828
+Shahzaib
+BC-32982341
+692519
+widowed
+557759315
+Hira Khalid
+7521973
+Nazia Soomro
+BC-11233698
+97928
+single
+721900134
+Mehwish
+8410449555860
+Zubair Ahmed
+BC-16560762
+0217512
+single
+8310595
+Hassan Butt
+470387460
+Junaid Javed
+BC-40985789
+3682984
+single
+2747673961722
+Hira Hussain
+266443148
+Nazia Khan
+BC-82780223
+159788
+divorced
+83677
+Salman Javed
+0670451
+Rashid Baig
+BC-55919038
+6652081
+single
+339278869
+Nazia
+39324
+Tariq Soomro
+BC-81418556
+2304633
+married
+274295816
+Shazia Sheikh
+3238743
+Owais Ahmed
+BC-59460323
+72559
+married
+5284916241741
+Sana Khan
+329975722
+Shahzaib Abbasi
+BC-73596804
+19650
+divorced
+9361742
+Hassan
+7161407
+Sadia
+BC-37075365
+4158220
+single
+45431
+Mehwish
+429901158
+Zubair Niazi
+BC-83377448
+2680751
+married
+7959751911785
+Rukhsana Hussain
+263079053
+Fatima Ahmed
+BC-88523738
+29150
+widowed
+23241
+Kamran Qureshi
+53571
+Fatima Soomro
+BC-45690837
+374276
+widowed
+0025564790149
+Tahira Mughal
+3556883
+Junaid Soomro
+BC-36663469
+7764350
+married
+3224434890128
+Zubair
+12438
+Ali Ahmed
+BC-44135731
+081814
+single
+6558932330859
+Zaib
+01506
+Anam Awan
+BC-33053994
+14211
+married
+7376520
+Kamran Farooq
+22403
+Ahmed Javed
+BC-53621236
+15420
+married
+1627006
+Saima Awan
+8329491
+Ayesha Niazi
+BC-65692868
+561922
+divorced
+58693
+Zainab
+28025
+Komal Chaudhry
+BC-56758606
+979051
+married
+8815925
+Saad
+2725549045566
+Rashid Soomro
+BC-37682310
+395925
+married
+050887107
+Usman Iqbal
+16861
+Zainab
+BC-02777400
+8421055
+single
+5783190419516
+Sobia Baig
+5848034082949
+Fatima
+BC-55322074
+547822
+divorced
+6918690109752
+Zubair Mughal
+8858801200702
+Farah Ahmed
+BC-95220131
+2529928
+divorced
+784548791
+Adnan Baig
+8564238441657
+Maria Malik
+BC-47621051
+07911
+divorced
+2453986363376
+Rashid
+029709511
+Naveed Javed
+BC-05332072
+54992
+widowed
+6641808
+Farhan Hussain
+77625
+Rashid
+BC-10278238
+4059289
+widowed
+8896847753301
+Anam Khan
+35468
+Hassan Niazi
+BC-68986812
+233865
+married
+7837100292099
+Ali Farooq
+00049
+Ayesha Mehmood
+verified
+1579643
+divorced
+01167
+Mehwish
+0393597
+Waqas Awan
+BC-16492532
+3550475
+widowed
+792665040
+Junaid
+2251027
+Mehwish Javed
+pending
+9021159
+single
+741856642
+Sobia Qureshi
+43940
+Hussain Siddiqui
+BC-54115783
+3409144
+divorced
+4998349
+Salman Qureshi
+92266
+Faisal Niazi
+BC-33720499
+2868462
+widowed
+8729914
+Komal Khan
+2618247
+Hassan Khan
+BC-25667011
+9592422
+married
+2131658496631
+Hussain Hussain
+0044209948016
+Usman
+BC-22720518
+5184547
+single
+9134499
+Farah Niazi
+873672730
+Sana
+BC-85340846
+5521826
+divorced
+0153815701269
+Fatima
+58191
+Farah Niazi
+BC-72366912
+6054709
+divorced
+924797126
+Ayesha Baig
+3203715
+Saad
+BC-08203098
+02879
+married
+63963
+Zubair Siddiqui
+274932173
+Junaid Javed
+BC-56994523
+782853
+married
+62818
+Rukhsana Chaudhry
+9913889477753
+Hira Khalid
+BC-33173804
+9420767
+widowed
+5801758596602
+Saad
+82196
+Zubair Ahmed
+BC-86588370
+33193
+single
+43122
+Shazia Abbasi
+92393
+Owais Mughal
+BC-11349711
+157935
+widowed
+8031743
+Saima Javed
+3986375101589
+Nazia Sheikh
+BC-26686006
+8151363
+divorced
+6876453
+Hussain Niazi
+25721
+Iqra
+BC-38208899
+92602
+single
+171917892
+Fatima Siddiqui
+221158936
+Bilal Mughal
+BC-09917725
+235676
+widowed
+9956344
+Salman Hussain
+2151700
+Sobia Soomro
+BC-63204595
+01374
+single
+9958717
+Usman Javed
+928953746
+Nida Abbasi
+BC-90663106
+37226
+married
+80732
+Komal
+7828934260484
+Hussain
+BC-14368497
+58834
+divorced
+6208696511846
+Shazia Qureshi
+00134
+Imran
+BC-26588903
+7776380
+widowed
+0774049627642
+Imran Chaudhry
+4827229861551
+Saad Chaudhry
+BC-49815671
+44799
+divorced
+33910
+Iqra Sheikh
+5296448830332
+Shahzaib Raza
+BC-77484967
+53257
+widowed
+9847828
+Ali Niazi
+88662
+Zaib Awan
+BC-58637294
+1030291
+married
+87614
+Tahira Yousaf
+176439528
+Nazia
+BC-66033094
+179457
+divorced
+5957846797460
+Salman Farooq
+7197615
+Owais
+BC-72210105
+030479
+married
+4005012647492
+Fatima
+0997638855727
+Tahira Sheikh
+BC-37701001
+877254
+divorced
+5592766
+Farhan Iqbal
+0638670266626
+Nida Qureshi
+BC-71630311
+451396
+divorced
+38758
+Farhan Hussain
+0280738545540
+Kamran
+BC-05874573
+5985229
+single
+521752778
+Owais
+900323513
+Zubair Soomro
+BC-21661741
+32785
+widowed
+7434485
+Junaid Chaudhry
+7637076
+Salman
+pending
+07632
+divorced
+06859
+Farhan Hussain
+9934190
+Sobia Abbasi
+pending
+413876
+divorced
+0452153893131
+Hassan
+334997872
+Junaid Niazi
+BC-72605522
+911941
+married
+698424452
+Tariq Yousaf
+0309463
+Tariq Baig
+BC-66642950
+7709173
+single
+75341
+Rukhsana Soomro
+2818184
+Kamran
+BC-23175113
+2959758
+married
+345483244
+Hussain Siddiqui
+51225
+Nazia
+BC-56471552
+9047512
+single
+25363
+Hussain Mehmood
+5520420
+Komal Niazi
+BC-85107376
+8506481
+married
+706001115
+Hamza Iqbal
+671203591
+Mahnoor Mehmood
+BC-93217160
+35382
+married
+91827
+Asad Farooq
+6032077
+Tahira Yousaf
+BC-92349515
+40732
+widowed
+0415974
+Saad
+419477133
+Sadia Ahmed
+BC-35479138
+445287
+divorced
+2760577534232
+Saima
+397560251
+Shazia Javed
+BC-61928911
+207134
+single
+39684
+Maria Khalid
+651700426
+Ali Baig
+BC-36900745
+64001
+widowed
+4904047
+Hira Siddiqui
+89104
+Rukhsana Niazi
+BC-29436913
+9839901
+widowed
+925698423
+Sana Mughal
+5131020582335
+Mehwish Mehmood
+BC-09267243
+349601
+divorced
+819120054
+Hassan Raza
+2111793
+Sana Soomro
+BC-57017199
+458642
+widowed
+8327476237182
+Zaib Mughal
+54146
+Maria
+BC-74703004
+713368
+widowed
+4370258
+Waqas
+261642018
+Bilal Chaudhry
+BC-73187522
+14038
+married
+0398960090486
+Saad Raza
+447253636
+Sana Niazi
+BC-80887040
+23302
+widowed
+7056237
+Zubair Qureshi
+943610889
+Kamran
+BC-44748790
+845238
+single
+3564548988017
+Sadia Chaudhry
+917940139
+Mahnoor
+pending
+6150348
+widowed
+4873960788697
+Shahzaib Awan
+00243
+Tahira Sheikh
+BC-84028480
+2263401
+divorced
+91718
+Asad
+1888417
+Nazia Awan
+pending
+535607
+divorced
+9789488457859
+Junaid
+4213262391259
+Zainab
+BC-69657084
+24741
+widowed
+9195708759734
+Anam Qureshi
+998289793
+Sobia Abbasi
+BC-25014387
+594206
+widowed
+59559
+Zainab Niazi
+812685978
+Kamran Ahmed
+BC-14264932
+64443
+married
+5218423
+Ayesha Chaudhry
+179781678
+Rashid Chaudhry
+BC-84140890
+5646837
+widowed
+277696162
+Rukhsana Ahmed
+4352626554049
+Bilal Mughal
+BC-52186866
+677950
+married
+9194035
+Waqas Awan
+75182
+Usman Baig
+BC-87372748
+31603
+single
+836787395
+Shazia Soomro
+90399
+Sana Khan
+BC-36037193
+66658
+widowed
+65202
+Hassan
+9716064
+Ayesha Farooq
+BC-71578775
+6981013
+married
+2064626
+Mehwish Hussain
+122067859
+Hassan Farooq
+BC-35191193
+7617976
+single
+1544105227294
+Owais Abbasi
+85412
+Saad
+BC-07473200
+10342
+single
+374040781
+Shazia Soomro
+8892782204706
+Hira Iqbal
+BC-14948388
+4171917
+divorced
+47594
+Mahnoor Khalid
+2226729
+Asad Farooq
+BC-80970000
+71252
+widowed
+12290
+Asad
+4209161
+Bilal Baig
+BC-42023709
+649391
+divorced
+9662946
+Tahira Mughal
+2920208103916
+Maria Sheikh
+BC-95841557
+93547
+divorced
+78579
+Imran Yousaf
+39035
+Tahira
+verified
+932975
+widowed
+5566430
+Maria Raza
+18555
+Nida Farooq
+BC-30190908
+5040300
+single
+21501
+Shazia
+1059946887592
+Mahnoor Farooq
+BC-66064156
+00442
+single
+3007589
+Farah Khan
+12705
+Saima Siddiqui
+BC-25366384
+6291489
+divorced
+8157011964356
+Rukhsana Soomro
+0430153
+Imran Niazi
+BC-30430606
+492059
+married
+541521007
+Faisal Hussain
+9078160147358
+Owais Ahmed
+BC-12623951
+3913955
+widowed
+5340135320395
+Hussain Niazi
+946153978
+Shahzaib Farooq
+verified
+1270619
+divorced
+24502
+Ayesha Qureshi
+5215509
+Hira Farooq
+verified
+363469
+single
+3289669444102
+Farhan
+413223331
+Farhan Soomro
+BC-21527018
+33642
+divorced
+870212151
+Imran
+3229986761477
+Bilal
+pending
+364963
+single
+4803591
+Maria Ahmed
+518084616
+Yasmin
+BC-71671283
+22874
+married
+738047794
+Saima
+191931572
+Farhan Javed
+pending
+54922
+widowed
+38546
+Yasmin Ahmed
+983976226
+Imran Mughal
+BC-02003993
+14789
+single
+7853556
+Owais Chaudhry
+504327510
+Naveed Khalid
+BC-73433485
+8171799
+widowed
+0417093
+Farah Niazi
+3473922
+Mahnoor Khan
+BC-77492764
+2686690
+divorced
+5818780
+Hira Butt
+7663179
+Zainab
+BC-16552396
+0679106
+single
+25185
+Rashid Yousaf
+9947356
+Sobia
+pending
+80205
+single
+9772679
+Komal Ahmed
+3005037
+Hussain
+BC-08810307
+871509
+widowed
+4431102234791
+Waqas Khan
+5670652186592
+Fatima
+BC-97258706
+768684
+married
+416238126
+Salman
+2727128
+Shazia Qureshi
+BC-02237387
+0833576
+married
+13879
+Bilal
+982891092
+Anam Raza
+BC-75062874
+759930
+widowed
+82785
+Maria Malik
+82341
+Hira Awan
+BC-87172705
+789879
+married
+0716458648489
+Usman Hussain
+1521667
+Maria
+BC-88267992
+632081
+single
+9858993301981
+Mehwish Yousaf
+61684
+Amna Chaudhry
+BC-23088996
+6464585
+single
+9474048
+Salman Yousaf
+00182
+Shahzaib Raza
+BC-48702507
+03508
+married
+86710
+Adnan Sheikh
+157306459
+Mehwish Niazi
+BC-97442190
+45899
+single
+99877
+Junaid
+5655897
+Samina Awan
+BC-36082735
+5174260
+married
+78013
+Anam Khan
+484164844
+Ali
+BC-09095335
+52267
+widowed
+8547667244508
+Rukhsana
+6997846
+Usman Mughal
+BC-44761616
+262187
+single
+7392510
+Mahnoor
+945849612
+Sobia Qureshi
+BC-66900571
+162011
+widowed
+60339
+Sadia Qureshi
+9787038
+Farah Siddiqui
+pending
+48985
+single
+620600836
+Rukhsana Raza
+88916
+Junaid Javed
+BC-37889948
+8370240
+single
+0621416400935
+Imran
+2714991296806
+Rabia
+pending
+273671
+divorced
+0633977
+Asad Khalid
+37968
+Nida Niazi
+BC-86040270
+0967169
+widowed
+8114180
+Ayesha Hussain
+0494543908403
+Tahira
+BC-78945995
+022459
+divorced
+20822
+Sobia Awan
+9891157964440
+Ayesha Javed
+BC-29102105
+4809226
+single
+3254095467417
+Tariq
+95152
+Ahmed Raza
+BC-65497234
+136848
+married
+8137317925521
+Waqas Raza
+0394920049968
+Tahira Baig
+BC-23777826
+629204
+married
+34776
+Waqas
+3023245
+Zaib Farooq
+pending
+90406
+married
+3917500491606
+Shahzaib Raza
+83697
+Hussain
+BC-60255780
+1590230
+widowed
+1656989823764
+Amna Farooq
+7771443
+Ahmed
+testing
+431663
+widowed
+50616
+Tariq Awan
+944971792
+Tariq
+BC-89642420
+670678
+divorced
+8004090
+Anam
+133250970
+Yasmin Farooq
+BC-39242876
+90705
+divorced
+385269733
+Farhan Awan
+09256
+Fatima Soomro
+BC-71249950
+87852
+widowed
+0925493
+Hussain Malik
+35360
+Hassan Iqbal
+BC-34358081
+2131141
+widowed
+6863430073818
+Hussain Siddiqui
+9715831
+Zainab Sheikh
+BC-69726171
+6888515
+divorced
+120701809
+Tariq Siddiqui
+3532763424968
+Hamza
+BC-46172272
+04247
+married
+7283823
+Imran
+5220188216129
+Amna
+BC-24134315
+802087
+single
+703699793
+Saad Soomro
+4982810326921
+Naveed Soomro
+BC-15450495
+9171954
+single
+40842
+Shazia Mughal
+6049791519368
+Mehwish Iqbal
+BC-74403158
+0286300
+married
+67841
+Farhan Baig
+3829376783074
+Ali Farooq
+BC-87913538
+030567
+married
+5958868
+Anam
+12799
+Sobia
+testing
+9506225
+divorced
+3682942157919
+Bilal Sheikh
+613393196
+Owais Sheikh
+BC-08714958
+64283
+married
+11219
+Tariq Farooq
+8457443289993
+Maria Abbasi
+BC-03392655
+5506293
+married
+242987733
+Ayesha
+553976376
+Hussain Farooq
+BC-78389160
+739014
+divorced
+1919645218535
+Rukhsana Butt
+0212100
+Saad
+BC-00024950
+3416217
+married
+831806843
+Imran Iqbal
+0008623765069
+Saima Hussain
+BC-24229485
+83302
+married
+8338757185968
+Maria Qureshi
+8255060
+Saad Farooq
+BC-10676493
+717919
+single
+7319395418641
+Farhan Siddiqui
+0814784
+Owais Malik
+BC-59686592
+68786
+married
+601499134
+Komal Abbasi
+519177924
+Ahmed Abbasi
+BC-59405231
+7509929
+married
+2055660632665
+Hussain Malik
+452102786
+Anam Raza
+BC-77861504
+874642
+married
+5634013648118
+Asad Chaudhry
+355536062
+Ayesha
+BC-98958358
+21558
+widowed
+3195777
+Rashid
+010458699
+Hira Siddiqui
+BC-02128171
+437834
+divorced
+03131
+Nida Sheikh
+497971460
+Zaib Iqbal
+BC-39160616
+6825921
+single
+48656
+Anam Baig
+158802986
+Ali Hussain
+BC-55510983
+488411
+married
+23031
+Iqra Farooq
+15972
+Rashid Butt
+BC-41402982
+047173
+divorced
+772158508
+Saad
+0110522
+Waqas Sheikh
+BC-87978165
+009673
+divorced
+23759
+Rukhsana
+15515
+Shazia Soomro
+BC-05490708
+0447397
+widowed
+7597261926683
+Rabia Soomro
+34528
+Tahira Raza
+BC-52177408
+76590
+single
+67804
+Zubair
+5365179
+Ahmed Ahmed
+BC-00496828
+12382
+widowed
+4460870070282
+Sobia Hussain
+70525
+Hussain Baig
+BC-96220623
+04261
+single
+3295505
+Owais Qureshi
+313258486
+Adnan
+BC-59833338
+9559747
+divorced
+6236457
+Hira Yousaf
+4400663283480
+Rabia
+pending
+16800
+divorced
+6108853
+Hamza
+21417
+Kamran Hussain
+BC-51403511
+08642
+married
+70252
+Iqra Soomro
+55140
+Waqas Ahmed
+BC-06573180
+9561759
+divorced
+6175034522013
+Rashid Farooq
+29098
+Salman
+BC-50327636
+52193
+single
+67503
+Yasmin Siddiqui
+3050780
+Asad
+pending
+27696
+widowed
+373973058
+Hamza
+614574121
+Rabia Malik
+BC-07080023
+213646
+married
+76354
+Zainab
+09521
+Amna Siddiqui
+BC-88631628
+2255637
+married
+3205717
+Kamran
+63686
+Shahzaib
+BC-93337866
+65641
+single
+2195779054143
+Zainab Awan
+765771679
+Usman Niazi
+BC-19068538
+86256
+single
+0157517
+Mahnoor Hussain
+3696031158673
+Adnan Qureshi
+BC-16479921
+425541
+married
+8219255385862
+Imran
+95722
+Usman Awan
+BC-81793872
+5273725
+divorced
+7602522134217
+Waqas Baig
+747459569
+Bilal Soomro
+testing
+639846
+widowed
+48912
+Imran Iqbal
+209741320
+Rabia Iqbal
+BC-62847479
+532136
+divorced
+25182
+Imran Malik
+045815453
+Hira Mehmood
+BC-40210420
+5002017
+widowed
+4599925
+Adnan Siddiqui
+825984733
+Adnan Javed
+BC-52850420
+75965
+widowed
+09711
+Kamran Soomro
+16053
+Salman
+BC-22354931
+9303166
+widowed
+46410
+Imran Mehmood
+046910196
+Kamran Ahmed
+BC-38172679
+455078
+widowed
+960655408
+Faisal Farooq
+0660690468821
+Hira Qureshi
+BC-41005854
+887261
+married
+25450
+Farhan Khan
+125497381
+Shahzaib Mehmood
+BC-82436274
+714533
+widowed
+1926514
+Shazia
+13597
+Farah Mughal
+BC-68538230
+1147916
+single
+0675164
+Usman Yousaf
+229112081
+Farhan
+BC-04754242
+70217
+married
+81243
+Yasmin Sheikh
+189761510
+Bilal Qureshi
+BC-30568191
+3465978
+single
+8387360524094
+Tahira Sheikh
+28030
+Sobia Mehmood
+BC-16613068
+331748
+single
+35683
+Farhan Awan
+6027622968113
+Ahmed
+BC-20746852
+7344272
+widowed
+97399
+Junaid Raza
+6833467515892
+Sobia Niazi
+BC-16620210
+600678
+married
+5124523
+Fatima Farooq
+454705713
+Owais
+BC-69888297
+388771
+divorced
+28248
+Amna Mughal
+21287
+Amna Malik
+pending
+16378
+widowed
+2486390
+Ali
+621594914
+Kamran
+BC-15315062
+297197
+single
+5780466
+Farah Yousaf
+20632
+Komal
+testing
+00398
+single
+041632125
+Anam Farooq
+51429
+Ahmed Raza
+BC-73665354
+59674
+married
+6767393
+Junaid Siddiqui
+6860986
+Salman Abbasi
+BC-39970110
+60319
+widowed
+58970
+Adnan
+308877529
+Faisal Raza
+BC-30282417
+0101708
+widowed
+073919232
+Rukhsana Javed
+350019940
+Sana Mehmood
+testing
+644105
+divorced
+081600645
+Salman Mughal
+826386759
+Rabia
+BC-64696604
+6045585
+single
+9992702
+Saima Butt
+2230076809486
+Rabia
+BC-09470400
+6854650
+divorced
+643234146
+Rukhsana Javed
+0498990637250
+Ali Mehmood
+BC-62497385
+33117
+married
+352259298
+Adnan Farooq
+0359307078479
+Sana Ahmed
+BC-68485979
+5207706
+widowed
+6631089
+Ali Siddiqui
+985758322
+Mahnoor Niazi
+BC-99014932
+746903
+divorced
+1009512394379
+Zaib
+370163644
+Hamza Baig
+BC-57271153
+656633
+widowed
+4299127740082
+Hussain Awan
+5883653065175
+Yasmin
+pending
+799865
+widowed
+6530530985521
+Sana Yousaf
+751580140
+Salman Baig
+BC-61056426
+0888864
+divorced
+4304788
+Mehwish Mehmood
+904886258
+Rabia Khalid
+BC-76749664
+53350
+divorced
+8341872
+Iqra Mughal
+83987
+Zainab Raza
+BC-87032676
+968257
+married
+44057
+Owais Awan
+6992652953351
+Komal Malik
+BC-97843258
+082267
+divorced
+57844
+Shazia Mughal
+922954531
+Amna
+BC-36546124
+5597204
+single
+1950956137064
+Hira Sheikh
+4389533685006
+Ali Siddiqui
+BC-97806355
+389562
+divorced
+28893
+Yasmin Khalid
+4781284
+Shahzaib
+pending
+957968
+married
+353262529
+Shahzaib Malik
+994268411
+Tariq Farooq
+BC-14447024
+259157
+married
+594634313
+Rabia Ahmed
+5488302
+Fatima Chaudhry
+BC-29057314
+58134
+single
+648987847
+Saad Butt
+3120956
+Zainab Khalid
+BC-88312033
+23125
+married
+6121189
+Mahnoor
+4448716290396
+Farhan Yousaf
+BC-58655181
+9994500
+divorced
+994351251
+Salman Raza
+1264547860002
+Farhan
+BC-03393575
+2969074
+married
+618617100
+Bilal Abbasi
+26298
+Sobia Abbasi
+BC-07435045
+904824
+married
+2402051174819
+Zaib Chaudhry
+582672105
+Yasmin Niazi
+BC-96983093
+7604898
+married
+9222287
+Shahzaib Iqbal
+694996604
+Tahira
+BC-52982134
+9150553
+widowed
+86727
+Fatima Baig
+81263
+Ali
+BC-90604179
+68940
+divorced
+92501
+Ali Farooq
+654835341
+Naveed Yousaf
+BC-60308143
+110803
+widowed
+517681468
+Tariq Chaudhry
+670155179
+Farhan Awan
+BC-24038720
+790051
+married
+781806559
+Sadia Mehmood
+449464371
+Nida Khan
+BC-57490351
+16781
+divorced
+228267903
+Owais Farooq
+40840
+Amna
+BC-85587818
+182954
+married
+60773
+Adnan
+1854561
+Zubair Malik
+BC-23493597
+0340037
+married
+4574817
+Iqra Abbasi
+8667893919351
+Rabia Hussain
+BC-60393714
+798053
+single
+506865039
+Usman Butt
+7754176
+Shazia
+BC-58463852
+5845902
+divorced
+3993632
+Asad Qureshi
+93042
+Faisal Sheikh
+BC-05184323
+97265
+widowed
+5060830425618
+Asad Baig
+9991962
+Mehwish
+BC-30957467
+2025195
+single
+5901233
+Zaib Yousaf
+6727066205936
+Naveed
+BC-45212760
+196606
+single
+505836892
+Sobia
+594195696
+Rabia Iqbal
+BC-06057302
+2933976
+divorced
+10835
+Shazia Niazi
+6349007
+Zainab
+BC-44166934
+50577
+widowed
+3405441
+Sobia
+61499
+Naveed Abbasi
+BC-64999068
+657365
+married
+257576692
+Sana
+866922032
+Yasmin
+BC-52974137
+6723485
+married
+5210144393704
+Sadia
+81555
+Saima Siddiqui
+BC-26760608
+79043
+widowed
+3046318
+Ahmed Awan
+594168681
+Usman Raza
+BC-76149437
+158600
+divorced
+2123051147372
+Anam Chaudhry
+1310258683316
+Hussain
+BC-71559719
+66039
+divorced
+902795544
+Rashid
+197439163
+Fatima
+BC-35160323
+12107
+single
+2336593
+Rukhsana Abbasi
+4450504185298
+Tahira
+BC-98900915
+06093
+widowed
+3632754055430
+Ayesha Khan
+6130408470120
+Nazia Qureshi
+BC-36573608
+65090
+single
+927961147
+Sadia
+1058158
+Hussain Khalid
+BC-10994428
+77627
+widowed
+47844
+Fatima
+153630315
+Owais Raza
+BC-11140814
+420391
+married
+3504188
+Nida Mughal
+3540190626911
+Farah
+BC-93595600
+96790
+widowed
+58987
+Anam Malik
+2719122
+Shazia Butt
+BC-09911016
+372466
+divorced
+42208
+Faisal
+096332961
+Owais
+BC-17164001
+377531
+divorced
+1288280
+Nazia Yousaf
+069776105
+Fatima Ahmed
+BC-49945346
+069303
+divorced
+6357685
+Saima Niazi
+07653
+Sana Raza
+BC-12694469
+776807
+married
+533814681
+Nida Sheikh
+43220
+Komal Siddiqui
+BC-19195860
+3346319
+married
+4952614
+Farhan Niazi
+86424
+Fatima
+BC-44437249
+09939
+divorced
+299054176
+Hamza Hussain
+68662
+Faisal Mehmood
+BC-25216919
+13995
+single
+9681450288427
+Adnan Iqbal
+220364634
+Iqra
+BC-12044023
+50661
+single
+8066141537617
+Imran Iqbal
+4650310
+Yasmin Baig
+BC-18217902
+71684
+married
+60617
+Sadia Mughal
+413809536
+Mehwish Khan
+BC-60919675
+8403939
+widowed
+694648975
+Nazia Abbasi
+9144770250581
+Waqas
+testing
+883746
+single
+271925504
+Yasmin
+463903287
+Sadia Niazi
+BC-30706266
+0270003
+widowed
+386340693
+Usman
+281215350
+Tariq Mughal
+testing
+18800
+single
+4054002435825
+Faisal
+9289426
+Anam Baig
+BC-44373411
+6939105
+widowed
+859010720
+Naveed Chaudhry
+547117929
+Nazia Yousaf
+BC-13786327
+809398
+married
+69139
+Rabia
+1535820647243
+Faisal Butt
+BC-87868065
+929925
+widowed
+141634951
+Junaid Awan
+7079718
+Asad Sheikh
+BC-00359108
+1058897
+single
+4907074682349
+Bilal Soomro
+62124
+Asad Niazi
+BC-86998318
+147119
+divorced
+552315038
+Hussain Mehmood
+9355060436947
+Komal Chaudhry
+BC-69171561
+470701
+single
+0355695494133
+Zaib Hussain
+210623902
+Rabia
+BC-31463513
+2716130
+single
+39685
+Mahnoor Sheikh
+7659691884550
+Rashid Mehmood
+BC-64215293
+8528117
+married
+49492
+Ayesha Hussain
+2014310309176
+Tariq Mughal
+BC-42663756
+4333910
+widowed
+8110342
+Fatima Baig
+9476601
+Usman Ahmed
+verified
+728564
+single
+51472
+Nida Butt
+3605260489040
+Ayesha Farooq
+BC-15894467
+862400
+widowed
+241955619
+Tariq Farooq
+5769595842329
+Farhan Niazi
+BC-59159562
+12247
+divorced
+7105958506029
+Fatima Siddiqui
+186151325
+Amna Baig
+BC-41733283
+7696555
+widowed
+317587826
+Farhan Qureshi
+47737
+Tariq
+BC-41279682
+60584
+single
+61664
+Mahnoor Javed
+4886387590407
+Ayesha Abbasi
+BC-55899342
+8942473
+widowed
+3555275333241
+Tahira
+6825304
+Usman Hussain
+BC-84174313
+41330
+married
+7652739309704
+Usman Khalid
+4329441720932
+Sana Chaudhry
+BC-31034282
+29632
+single
+9947802
+Saad Khan
+886333780
+Komal
+BC-69225285
+03818
+widowed
+9388922
+Fatima Javed
+382190657
+Ali Yousaf
+verified
+02020
+married
+9137871
+Iqra Qureshi
+162444567
+Hassan Qureshi
+BC-74599226
+232311
+divorced
+5280612925149
+Adnan Butt
+8253476
+Samina
+BC-15383903
+567011
+single
+2844588821620
+Saad Hussain
+0939014
+Adnan Farooq
+BC-66872346
+12832
+divorced
+487042747
+Komal Chaudhry
+3120962922413
+Sadia Niazi
+BC-00212712
+1193344
+divorced
+032977058
+Mahnoor Raza
+2824550679548
+Saima
+BC-04568275
+4548409
+married
+984924559
+Junaid Farooq
+365782976
+Zainab
+pending
+11612
+married
+546934676
+Tahira Khan
+1066340970882
+Hussain Baig
+BC-58279406
+463614
+divorced
+219147331
+Rabia Qureshi
+67319
+Usman Farooq
+BC-22965076
+119981
+divorced
+3564291
+Shazia Abbasi
+6594750
+Rabia Ahmed
+BC-05027312
+305602
+single
+9681392
+Samina
+13955
+Sobia Awan
+BC-81244052
+08695
+widowed
+0870631
+Rashid
+9121050127537
+Ali Iqbal
+pending
+29066
+divorced
+602634061
+Rabia Siddiqui
+930716305
+Hussain Iqbal
+BC-33968460
+787395
+single
+3866950494931
+Nazia Chaudhry
+0342452059636
+Shazia Mehmood
+BC-29103485
+582171
+divorced
+1990241733268
+Nida Khan
+706263658
+Usman
+BC-46499968
+495055
+married
+3930636249092
+Saima Farooq
+26375
+Saima Soomro
+BC-82402464
+4517256
+divorced
+0905005
+Saad Qureshi
+2625483
+Sana Siddiqui
+BC-10180378
+1933907
+widowed
+58878
+Nazia
+3705556
+Maria Niazi
+BC-89005673
+9460645
+divorced
+7829317
+Ayesha
+6784660787067
+Ayesha Siddiqui
+BC-59378551
+514293
+single
+925755739
+Usman Ahmed
+2837859
+Shazia Sheikh
+BC-09984478
+8898953
+married
+6423130
+Owais Sheikh
+645234691
+Hassan
+BC-34818163
+36621
+married
+9837355974645
+Tahira Yousaf
+1181129587817
+Saad Niazi
+BC-76696204
+8342474
+widowed
+20065
+Komal Awan
+1997691
+Hamza
+BC-35572710
+390057
+widowed
+2722173
+Junaid Javed
+0877982
+Komal Qureshi
+verified
+7492392
+divorced
+382062579
+Asad Ahmed
+6609641583033
+Nida
+BC-10742704
+753085
+divorced
+4033511342251
+Rashid Ahmed
+9550423087917
+Anam Javed
+BC-98607629
+26802
+divorced
+90503
+Amna
+20373
+Sadia Abbasi
+BC-86104875
+566861
+married
+526309192
+Zubair
+321110800
+Saad
+BC-22576985
+73552
+single
+1754530066739
+Ahmed Hussain
+8340452830618
+Maria Butt
+BC-11873315
+26132
+married
+996621697
+Ali Qureshi
+6502522
+Zaib
+BC-76756521
+7255033
+married
+70223
+Hassan
+1282592
+Yasmin Qureshi
+BC-98436845
+772434
+widowed
+239120520
+Asad Khan
+4038215724764
+Saima
+BC-99253814
+2634301
+widowed
+7149647
+Adnan Raza
+28841
+Kamran Soomro
+BC-86657591
+45847
+married
+406512561
+Iqra Sheikh
+0256678
+Samina Khalid
+BC-69373959
+62654
+married
+4832247
+Rukhsana Abbasi
+363655747
+Maria Awan
+pending
+5117046
+single
+7554087729343
+Mehwish Iqbal
+34710
+Rashid Ahmed
+BC-33032562
+33906
+widowed
+8366907815038
+Shahzaib Javed
+5129924097903
+Zubair Malik
+BC-14280377
+4883354
+single
+58710
+Ayesha
+13489
+Maria Sheikh
+verified
+432123
+widowed
+3757834973679
+Naveed
+230820671
+Naveed
+BC-43864256
+3964908
+widowed
+434252392
+Samina Siddiqui
+10541
+Hamza Sheikh
+BC-66840646
+261811
+widowed
+62176
+Shahzaib Abbasi
+1217877979433
+Zaib Mehmood
+pending
+92468
+widowed
+5902090990263
+Sobia Abbasi
+523139338
+Faisal Mughal
+BC-86171413
+6447892
+widowed
+5104958346129
+Mahnoor Hussain
+16029
+Farhan
+pending
+00955
+widowed
+69976
+Nazia Abbasi
+125992456
+Bilal Mughal
+BC-24490346
+25473
+single
+6443082
+Asad Malik
+9575779632262
+Ali Soomro
+BC-24333030
+2848594
+single
+2585546842744
+Ayesha Yousaf
+7106430
+Junaid
+BC-76444329
+74812
+married
+777692643
+Yasmin Malik
+305115030
+Mehwish
+BC-79840139
+299593
+widowed
+93831
+Faisal Malik
+5692708
+Saima
+verified
+0275591
+divorced
+577493622
+Hamza
+955267994
+Samina Butt
+BC-02146834
+3114543
+divorced
+210880125
+Zainab Niazi
+70446
+Samina Baig
+BC-67036532
+0816130
+divorced
+87417
+Naveed Iqbal
+1800138491255
+Rashid Sheikh
+BC-02757746
+465161
+divorced
+56534
+Shazia Malik
+358796947
+Kamran
+BC-89853314
+468968
+divorced
+326774979
+Kamran Awan
+4039907414146
+Ali Qureshi
+BC-72523739
+855050
+single
+570182602
+Saima Khalid
+270632235
+Maria Khan
+BC-86522985
+377966
+married
+9561801
+Usman
+77980
+Fatima Raza
+BC-17494912
+448544
+divorced
+638018754
+Rabia
+5135434
+Zubair Sheikh
+BC-13200075
+644889
+married
+09918
+Shahzaib Awan
+2046675677955
+Rabia
+BC-83719697
+74770
+widowed
+3479748
+Zubair Ahmed
+927182275
+Saima Ahmed
+BC-43795393
+07775
+single
+626483053
+Mahnoor Iqbal
+9506628
+Mehwish Hussain
+BC-37082367
+010737
+single
+7724217174408
