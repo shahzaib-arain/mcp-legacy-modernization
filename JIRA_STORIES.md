@@ -161,3 +161,88 @@ so that the national database remains up-to-date and free from mistakes or obsol
 - **Testing Tasks**:
   - Write backend integration tests for updates and deletes.
   - Verify that foreign key constraints/indexes remain intact.
+
+---
+
+## Story 6: Citizen NIC Application Flow (NADRA-106)
+
+### Title
+Citizen NIC Application Form (No Manual NIC Input)
+
+### User Story
+```text
+As a Citizen User,
+I want to apply for a new NIC card by filling out my details without manual NIC input,
+so that the authority can verify my request and automatically generate a unique NIC for me.
+```
+
+### Acceptance Criteria
+- User cannot manually input an NIC number.
+- User fills out: Name, Father/Relative NIC, Mother's Name, Birth Certificate No, Resident Form No, Marital Status, and Age (validated 18+).
+- Application appears in the Citizen's dashboard table with status `PENDING_MANAGER` and "Pending assignment" for the NIC.
+
+### Technical Tasks
+- **Backend Tasks**:
+  - Implement request validation schema without `nic` requirement.
+  - Implement request creation endpoint mapping to `PENDING_MANAGER` status.
+- **Frontend Tasks**:
+  - Build application modal with fields (no `nic` field).
+  - Add Citizen Applications table in Dashboard showing tracking status.
+
+---
+
+## Story 7: Manager Review and Verification (NADRA-107)
+
+### Title
+Manager Request Verification Queue
+
+### User Story
+```text
+As a Verification Manager,
+I want to browse and review pending citizen applications,
+so that I can verify and forward valid ones to the Administrator or reject invalid ones.
+```
+
+### Acceptance Criteria
+- Manager can view a queue of all requests in `PENDING_MANAGER` status.
+- Manager can review full details of an application.
+- Manager can click "Verify & Forward to Admin" to promote status to `PENDING_ADMIN`.
+- Manager can click "Reject" to set status to `REJECTED`.
+
+### Technical Tasks
+- **Backend Tasks**:
+  - Implement `PUT /api/requests/:id/verify-manager` endpoint.
+  - Implement `PUT /api/requests/:id/reject` endpoint.
+- **Frontend Tasks**:
+  - Build Manager Dashboard queue table.
+  - Create review modal with Verify and Reject action handlers.
+
+---
+
+## Story 8: Admin Final Approval & Auto-NIC Generation (NADRA-108)
+
+### Title
+Admin Request Approval & Unique NIC Auto-Generation
+
+### User Story
+```text
+As a System Administrator,
+I want to approve manager-verified requests and automatically generate a unique NIC number,
+so that the citizen is registered in the official national database.
+```
+
+### Acceptance Criteria
+- Admin can browse a queue of all requests in `PENDING_ADMIN` status.
+- Clicking "Approve & Generate NIC" opens a confirmation modal.
+- Approving automatically generates a unique 13-digit NIC in format `XXXXX-XXXXXXX-X` and creates the `CitizenRecord` in the database.
+- The record in the directory is flagged as "Verified" and displays the name of the verifying Manager.
+
+### Technical Tasks
+- **Backend Tasks**:
+  - Implement `PUT /api/requests/:id/verify-admin` endpoint.
+  - Implement unique 13-digit Pakistani NIC generation utility checking DB uniqueness.
+  - Register `CitizenRecord` in transactional boundary.
+- **Frontend Tasks**:
+  - Add "Manager Requests" tab to Admin Dashboard.
+  - Build confirmation modal for NIC generation and final approval.
+

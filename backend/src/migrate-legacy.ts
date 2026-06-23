@@ -13,24 +13,32 @@ const FILE_PATH = path.join(__dirname, '../../nadra_records.txt');
 async function main() {
   console.log('Starting migration...');
 
-  // 1. Ensure default Admin is seeded
-  const adminUsername = 'admin';
-  const existingAdmin = await prisma.admin.findUnique({
-    where: { username: adminUsername },
-  });
+  // 1. Ensure default Users are seeded (Admin, Manager, User)
+  const usersToSeed = [
+    { username: 'admin', password: 'admin123', name: 'System Administrator', role: 'ADMIN' },
+    { username: 'manager', password: 'manager123', name: 'Verification Manager', role: 'MANAGER' },
+    { username: 'user', password: 'user123', name: 'Citizen Applicant', role: 'USER' },
+  ];
 
-  if (!existingAdmin) {
-    const hashedPassword = bcrypt.hashSync('admin123', 10);
-    await prisma.admin.create({
-      data: {
-        username: adminUsername,
-        password: hashedPassword,
-        name: 'System Administrator',
-      },
+  for (const user of usersToSeed) {
+    const existingUser = await prisma.user.findUnique({
+      where: { username: user.username },
     });
-    console.log('Seeded default admin user: admin / admin123');
-  } else {
-    console.log('Admin user already exists.');
+
+    if (!existingUser) {
+      const hashedPassword = bcrypt.hashSync(user.password, 10);
+      await prisma.user.create({
+        data: {
+          username: user.username,
+          password: hashedPassword,
+          name: user.name,
+          role: user.role as any,
+        },
+      });
+      console.log(`Seeded default ${user.role} user: ${user.username} / ${user.password}`);
+    } else {
+      console.log(`${user.role} user (${user.username}) already exists.`);
+    }
   }
 
   // 2. Read and parse nadra_records.txt

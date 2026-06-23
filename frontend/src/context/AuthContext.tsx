@@ -5,6 +5,7 @@ interface User {
   id: string;
   username: string;
   name: string;
+  role: 'USER' | 'MANAGER' | 'ADMIN';
 }
 
 interface AuthContextType {
@@ -46,7 +47,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     try {
       const res = await api.get('/auth/me');
       if (res.status === 'success') {
-        setUser(res.data.admin);
+        setUser(res.data.user);
       } else {
         logout();
       }

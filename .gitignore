@@ -41,3 +41,22 @@ postgres_data/
 
 # MCP server config (contains local paths & tokens)
 .mcp.json
+
+# Test reports (generated)
+frontend/allure-results/
+frontend/allure-report/
+frontend/playwright-report/
+frontend/test-results/
+
+# Root package-lock (auto-generated)
+package-lock.json
+
+# Database data directory
+pgdata/
+
+# Credentials
+credentials.txt
+
+# Screenshots
+Screenshot*.png
+

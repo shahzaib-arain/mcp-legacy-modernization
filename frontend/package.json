@@ -10,7 +10,16 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "test:e2e:functional": "playwright test tests/functional/",
+    "test:e2e:nonfunc": "playwright test tests/non-functional/",
+    "test:e2e:chromium": "playwright test --project=chromium",
+    "test:all": "npm run test && npm run test:e2e",
+    "allure:generate": "npx allure generate allure-results --clean -o allure-report",
+    "allure:open": "npx allure open allure-report",
+    "allure:serve": "npx allure serve allure-results",
+    "allure:clean": "node -e \"const fs=require('fs'); fs.rmSync('allure-results',{recursive:true,force:true}); fs.rmSync('allure-report',{recursive:true,force:true})\"",
+    "test:report": "npm run allure:clean && npm run test:e2e && npm run allure:generate && npm run allure:open"
   },
   "dependencies": {
     "lucide-react": "^1.21.0",
@@ -18,6 +27,7 @@
     "react-dom": "^19.2.6"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.10.1",
     "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.61.0",
     "@tailwindcss/postcss": "^4.3.1",
@@ -27,6 +37,8 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",
+    "allure-commandline": "^2.43.0",
+    "allure-playwright": "^3.10.0",
     "autoprefixer": "^10.5.0",
     "eslint": "^10.3.0",
     "eslint-plugin-react-hooks": "^7.1.1",

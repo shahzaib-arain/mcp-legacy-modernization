@@ -3,6 +3,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import authRoutes from './routes/auth';
 import recordRoutes from './routes/records';
+import requestRoutes from './routes/requests';
 import { errorHandler } from './middleware/error';
 import { logger } from './utils/logger';
 
@@ -25,6 +26,7 @@ app.use((req, res, next) => {
 // Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/records', recordRoutes);
+app.use('/api/requests', requestRoutes);
 
 // Root healthcheck
 app.get('/health', (req, res) => {

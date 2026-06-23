@@ -1,0 +1,32 @@
+{
+  "name": "mcp",
+  "version": "1.0.0",
+  "description": "A complete modernization of a legacy C++ console application into a production-ready full-stack web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:backend": "npm --prefix backend test",
+    "test:frontend": "npm --prefix frontend run test",
+    "test:e2e": "npm --prefix frontend run test:e2e",
+    "test:e2e:functional": "npm --prefix frontend run test:e2e:functional",
+    "test:e2e:nonfunc": "npm --prefix frontend run test:e2e:nonfunc",
+    "test:all": "npm --prefix backend test && npm --prefix frontend run test:e2e",
+    "allure:frontend": "npm --prefix frontend run allure:generate && npm --prefix frontend run allure:open",
+    "allure:backend": "npm --prefix backend run allure:generate && npm --prefix backend run allure:open",
+    "test:report": "npm --prefix frontend run test:report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahzaib-arain/mcp-legacy-modernization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahzaib-arain/mcp-legacy-modernization/issues"
+  },
+  "homepage": "https://github.com/shahzaib-arain/mcp-legacy-modernization#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}

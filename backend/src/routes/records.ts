@@ -8,7 +8,7 @@ import {
   deleteAllRecords,
   getStats,
 } from '../controllers/records';
-import { authMiddleware } from '../middleware/auth';
+import { authMiddleware, requireRole } from '../middleware/auth';
 
 const router = Router();
 
@@ -16,11 +16,11 @@ const router = Router();
 router.use(authMiddleware);
 
 router.get('/', getRecords);
-router.post('/', createRecord);
-router.delete('/', deleteAllRecords); // Bulk delete
+router.post('/', requireRole(['ADMIN']), createRecord);
+router.delete('/', requireRole(['ADMIN']), deleteAllRecords); // Bulk delete
 router.get('/stats', getStats);
 router.get('/:nic', getRecordByNic);
-router.put('/:nic', updateRecord);
-router.delete('/:nic', deleteRecord);
+router.put('/:nic', requireRole(['ADMIN']), updateRecord);
+router.delete('/:nic', requireRole(['ADMIN']), deleteRecord);
 
 export default router;

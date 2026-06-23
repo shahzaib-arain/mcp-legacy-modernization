@@ -21,7 +21,7 @@ describe('NADRA System API Integration Tests', () => {
       await prisma.citizenRecord.deleteMany({
         where: { nic: { startsWith: 'TEST_' } },
       });
-      await prisma.admin.deleteMany({
+      await prisma.user.deleteMany({
         where: { username: { startsWith: 'testadmin_' } },
       });
     } catch (e) {
@@ -45,11 +45,12 @@ describe('NADRA System API Integration Tests', () => {
         username: testUsername,
         password: testPassword,
         name: 'Test Administrator',
+        role: 'ADMIN',
       });
     
     expect(res.status).toBe(201);
     expect(res.body.status).toBe('success');
-    expect(res.body.data.admin.username).toBe(testUsername);
+    expect(res.body.data.user.username).toBe(testUsername);
   });
 
   test('POST /api/auth/login should authenticate and return token', async () => {
@@ -73,7 +74,7 @@ describe('NADRA System API Integration Tests', () => {
 
     expect(res.status).toBe(200);
     expect(res.body.status).toBe('success');
-    expect(res.body.data.admin.username).toBe(testUsername);
+    expect(res.body.data.user.username).toBe(testUsername);
   });
 
   // 3. Citizen CRUD Protected Operations

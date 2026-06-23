@@ -12,6 +12,7 @@ const registerSchema = z.object({
   username: z.string().min(3, 'Username must be at least 3 characters'),
   password: z.string().min(6, 'Password must be at least 6 characters'),
   name: z.string().min(2, 'Name must be at least 2 characters'),
+  role: z.enum(['USER', 'MANAGER', 'ADMIN']).optional(),
 });
 
 const loginSchema = z.object({
@@ -23,30 +24,32 @@ export const register = async (req: Request, res: Response, next: NextFunction) 
   try {
     const body = registerSchema.parse(req.body);
 
-    const existingAdmin = await prisma.admin.findUnique({
+    const existingUser = await prisma.user.findUnique({
       where: { username: body.username },
     });
 
-    if (existingAdmin) {
+    if (existingUser) {
       return next(new AppError('Username is already taken.', 400));
     }
 
     const hashedPassword = await bcrypt.hash(body.password, 10);
-    const newAdmin = await prisma.admin.create({
+    const newUser = await prisma.user.create({
       data: {
         username: body.username,
         password: hashedPassword,
         name: body.name,
+        role: body.role || 'USER',
       },
     });
 
     res.status(201).json({
       status: 'success',
       data: {
-        admin: {
-          id: newAdmin.id,
-          username: newAdmin.username,
-          name: newAdmin.name,
+        user: {
+          id: newUser.id,
+          username: newUser.username,
+          name: newUser.name,
+          role: newUser.role,
         },
       },
     });
@@ -62,16 +65,16 @@ export const login = async (req: Request, res: Response, next: NextFunction) => 
   try {
     const body = loginSchema.parse(req.body);
 
-    const admin = await prisma.admin.findUnique({
+    const user = await prisma.user.findUnique({
       where: { username: body.username },
     });
 
-    if (!admin || !(await bcrypt.compare(body.password, admin.password))) {
+    if (!user || !(await bcrypt.compare(body.password, user.password))) {
       return next(new AppError('Invalid username or password.', 401));
     }
 
     const token = jwt.sign(
-      { id: admin.id },
+      { id: user.id, role: user.role },
       process.env.JWT_SECRET || 'nadra_secret_jwt_key_2026_xyz',
       { expiresIn: '24h' }
     );
@@ -80,10 +83,11 @@ export const login = async (req: Request, res: Response, next: NextFunction) => 
       status: 'success',
       token,
       data: {
-        admin: {
-          id: admin.id,
-          username: admin.username,
-          name: admin.name,
+        user: {
+          id: user.id,
+          username: user.username,
+          name: user.name,
+          role: user.role,
         },
       },
     });
@@ -97,21 +101,22 @@ export const login = async (req: Request, res: Response, next: NextFunction) => 
 
 export const getMe = async (req: AuthenticatedRequest, res: Response, next: NextFunction) => {
   try {
-    const admin = await prisma.admin.findUnique({
-      where: { id: req.adminId },
+    const user = await prisma.user.findUnique({
+      where: { id: req.userId },
     });
 
-    if (!admin) {
-      return next(new AppError('Admin profile not found.', 404));
+    if (!user) {
+      return next(new AppError('User profile not found.', 404));
     }
 
     res.status(200).json({
       status: 'success',
       data: {
-        admin: {
-          id: admin.id,
-          username: admin.username,
-          name: admin.name,
+        user: {
+          id: user.id,
+          username: user.username,
+          name: user.name,
+          role: user.role,
         },
       },
     });
