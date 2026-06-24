@@ -33,6 +33,8 @@ services:
     depends_on:
       db:
         condition: service_healthy
+    volumes:
+      - ./nadra_records.txt:/nadra_records.txt
 
   frontend:
     build:
@@ -41,7 +43,7 @@ services:
     container_name: nadra-frontend-app
     restart: always
     ports:
-      - "80:80"
+      - "5173:80"
     depends_on:
       - backend
 

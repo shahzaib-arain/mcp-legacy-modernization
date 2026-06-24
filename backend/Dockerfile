@@ -44,5 +44,5 @@ RUN npx prisma generate
 
 EXPOSE 5000
 
-# Run migrations then start server
-CMD ["sh", "-c", "npx prisma migrate deploy && node dist/app.js"]
+# Run migrations, seed database, then start server
+CMD ["sh", "-c", "npx prisma migrate deploy && node dist/migrate-legacy.js && node dist/app.js"]

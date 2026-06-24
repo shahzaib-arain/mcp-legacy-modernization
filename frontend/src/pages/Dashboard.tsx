@@ -109,7 +109,7 @@ const ErrorBanner: React.FC<{ msg: string | null }> = ({ msg }) =>
 // MAIN DASHBOARD
 // ═══════════════════════════════════════════════════════════════════════════════
 export const Dashboard: React.FC = () => {
-  const { user, logout } = useAuth();
+  const { user } = useAuth();
 
   if (!user) return null;
 
@@ -203,7 +203,6 @@ const UserDashboard: React.FC = () => {
 
   const pendingCount = requests.filter(r => r.status === 'PENDING_MANAGER' || r.status === 'PENDING_ADMIN').length;
   const approvedCount = requests.filter(r => r.status === 'APPROVED').length;
-  const rejectedCount = requests.filter(r => r.status === 'REJECTED').length;
 
   return (
     <div className="min-h-screen bg-slate-950 p-6">
@@ -407,7 +406,6 @@ const ManagerDashboard: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [actionLoading, setActionLoading] = useState(false);
   const [selectedReq, setSelectedReq] = useState<VerificationRequest | null>(null);
-  const [modalMode, setModalMode] = useState<'view' | 'reject'>('view');
   const [modalError, setModalError] = useState<string | null>(null);
 
   const fetchRequests = useCallback(async () => {
@@ -516,7 +514,7 @@ const ManagerDashboard: React.FC = () => {
                     <td className="px-6 py-4">
                       <div className="flex justify-end gap-2">
                         <button
-                          onClick={() => { setSelectedReq(req); setModalMode('view'); setModalError(null); }}
+                          onClick={() => { setSelectedReq(req); setModalError(null); }}
                           className="flex items-center gap-1.5 rounded-lg border border-slate-800 bg-slate-900 px-3 py-1.5 text-xs font-medium text-slate-400 hover:text-white hover:bg-slate-800 transition"
                         >
                           <Eye className="h-3.5 w-3.5" /> Review
